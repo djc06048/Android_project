@@ -11,7 +11,7 @@
 - 좋아요 버튼 눌러 자신이 좋아하는 영화 모아볼 수 있는 페이지 존재 -> AWS 이용해서 백엔드 연결
 
 ### 데모 영상
-<img src="https://user-images.githubusercontent.com/62535887/174494409-f94d9016-b87e-4cee-afad-a8e504df9d74.gif">
+<img src="https://user-images.githubusercontent.com/62535887/174494409-f94d9016-b87e-4cee-afad-a8e504df9d74.gif" width="200" height="400">
 
 
 
